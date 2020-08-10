@@ -1,0 +1,210 @@
+body {
+	width: 99%;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.column {
+	float: left;
+	height: 1500px;
+}
+
+/* Left  column */
+.column.left {
+	width: 30%;
+	background-color: #494e5f;
+    margin-left:11%; 	
+}
+
+/* right column */
+.column.right {
+	width: 50%;
+    background-color: #efefd9;
+    margin-right:5%;
+}
+
+
+/* Principal DIV style */
+img {
+	border-radius: 50%;
+	width: 40%;
+	margin-top: 10%;
+	margin-left: 30%;
+}
+
+h1 {
+	color: white;
+	letter-spacing: 3px; 
+}
+
+.principal {
+	color: white;
+	padding-left: 15%;
+	padding-right: 10%;
+	padding-top: 2%;
+}
+
+.principal li {
+	text-align: justify;
+	font-weight: normal;
+	line-height: 1.5;
+	font-size: 12.5px;
+}
+
+.principal p {
+	text-align: justify;
+	font-weight: normal;
+	line-height: 1.5;
+	font-size: 12.5px;
+}
+
+.principal .head hr {
+	border: solid 2px;
+}
+
+.principal .head h5 {
+	margin-top: 30px;
+	letter-spacing: 3px; 
+}
+
+.principal .profile  {
+	margin-top: 15%;
+}
+
+.principal .profile h4 {
+	color: #ffe7d4;
+} 
+
+.principal .profile h5 {
+	margin-top: 10px;
+	letter-spacing: 3px; 
+	font-weight: normal;	
+}
+
+.principal .skills  {
+	margin-top: 15%;
+} 
+
+.principal .skills h5 {
+	text-align: justify;
+	font-weight: normal;
+	line-height: 1.5;
+	font-size: 12.5px;
+	color: #ffe7d4;
+}
+
+.principal .skills h4 {
+	color: #ffe7d4;
+}
+
+.principal .contact  {
+	margin-top: 15%;
+}
+
+.principal .contact p {
+	letter-spacing: 0px; 	
+	margin-top: -10px;
+	margin-left: 5%;
+}
+
+.principal .contact h4 {
+	color: #ffe7d4;
+}
+
+/**SECONDARY DIV STYLE */ 
+.secundary{
+	padding-left: 7%;
+	padding-right: 10%;
+	padding-top: 5%;
+}
+
+.secundary p {
+	text-align: justify;
+	font-weight: normal;
+	line-height: 1.2;
+	font-size: 12px;
+}
+
+.secundary h3 {
+	color: #494e5f; 
+}
+
+.secundary h4 {
+	margin-top: 4%;
+	color: #494e5f; 
+}
+
+.secundary .experience h5 {
+	color: #494e5f; 
+	padding-top: 1%;
+	margin-left: 1%;
+	font-size: 14px;
+}
+
+.secundary .experience p {
+	padding-top: -1%;
+	margin-left: 1%;
+}
+
+.secundary .experience hr {
+	width: 40%;
+	border: solid 1px #494e5f;
+	margin-top:-1%;
+}
+
+.secundary li {
+	text-align: justify;
+	font-weight: normal;
+	line-height: 1.5;
+	font-size: 12px;
+}
+
+.secundary .experience .site {
+	text-align: justify;
+	font-weight: normal;
+	line-height: 1;
+	font-size: 13px;
+	color: #606060;
+	font-style: italic;
+}
+
+
+/* EDUCATION */
+
+.secundary .education hr {
+	width: 40%;
+	border: solid 2px #494e5f;
+}
+
+.secundary .education .site {
+	text-align: justify;
+	font-weight: normal;
+	line-height: 1;
+	font-size: 13px;
+	color: #606060;
+	font-style: italic;
+}
+
+.secundary .education h5 {
+	color: #494e5f; 
+	padding-top: 1%;
+	margin-left: 1%;
+	font-size: 14px;
+}
+
+.secundary .education h3 {
+	color: #494e5f; 
+	padding-top: 7%;
+	margin-left: 1%;
+}
+
+.secundary .education p {
+	padding-top: -1%;
+	margin-left: 1%;
+}
+
+.secundary .education hr {
+	width: 30%;
+	border: solid 1px #494e5f;
+	margin-top:-1%;
+}
